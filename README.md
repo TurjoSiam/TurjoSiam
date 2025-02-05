@@ -24,21 +24,21 @@
 
 ###
 
-<h2 align="center">👋 About Me</h2>
+<h2 align="left">👋 About Me</h2>
 
-<p align="center">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br><br>🎯 What I Do:<br><br>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
-
-###
-
-<h2 align="center">🚧 Currently Working</h2>
-
-<p align="center">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Learning Next.js to enhance my skills in building fast and scalable web applications.</p>
+<p align="left">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br><br>🎯 What I Do:<br><br>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
 
 ###
 
-<h2 align="center">🛠 Language and tools</h2>
+<h2 align="left">🚧 Currently Working</h2>
 
-<div align="center">
+<p align="left">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Learning Next.js to enhance my skills in building fast and scalable web applications.</p>
+
+###
+
+<h2 align="left">🛠 Language and tools</h2>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
@@ -60,8 +60,8 @@
 
 ###
 
-<h2 align="center">🔥   My Stats :</h2>
-<div align="center">
+<h2 align="left">🔥   My Stats :</h2>
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=TurjoSiam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TurjoSiam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
