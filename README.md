@@ -27,7 +27,7 @@
 
 <h2 align="center">👋 About Me</h2>
 
-<p align="center">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br>🎯 <h3 align="center">What I Do:</h3>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
+<p align="center">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.</p><br><h3 align="center">🎯 What I Do:</h3><p>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
 <br>
 
 ###
