@@ -26,55 +26,44 @@
 
 ###
 
-<h3 align="center">👋 About Me</h3>
+<h2 align="center">👋 About Me</h2>
 
 ###
 
-<p align="center">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.</p>
-
- <p>I have a passion for building interactive and responsive web applications. I specialize in:</p>
-
-    <ul>
-        <li>✅ Next.js</li>
-        <li>✅ React</li>
-        <li>✅ JavaScript</li>
-        <li>✅ Tailwind CSS</li>
-        <li>✅ MongoDB</li>
-    </ul>
-
-    <h2>🎯 What I Do:</h2>
-    <ul>
-        <li>💻 Develop scalable and user-friendly web applications.</li>
-        <li>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.</li>
-        <li>🔥 Optimize performance and enhance user experience.</li>
-    </ul>
+<p align="center">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br><br>🎯 What I Do:<br><br>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
 
 ###
 
-<h3 align="center">🚧 Current Projects</h3>
+<h2 align="center">🚧 Currently Working</h2>
 
 ###
 
-<p align="left">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Exploring Redux for state management and diving into various npm packages to enhance functionality.</p>
+<p align="center">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Learning Next.js to enhance my skills in building fast and scalable web applications.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="center">🛠 Language and tools</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
