@@ -20,15 +20,11 @@
 
 <h1 align="center">Siam Mohammed Abdulah</h1>
 
-###
-
 <p align="center">A passionate Front-End Web Developer with expertise in React and modern web technologies.</p>
 
 ###
 
 <h2 align="center">👋 About Me</h2>
-
-###
 
 <p align="center">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br><br>🎯 What I Do:<br><br>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
 
@@ -36,15 +32,11 @@
 
 <h2 align="center">🚧 Currently Working</h2>
 
-###
-
 <p align="center">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Learning Next.js to enhance my skills in building fast and scalable web applications.</p>
 
 ###
 
 <h2 align="center">🛠 Language and tools</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -68,11 +60,10 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TurjoSiam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TurjoSiam&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 ###
