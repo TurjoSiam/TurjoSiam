@@ -21,18 +21,20 @@
 <h1 align="center">Siam Mohammed Abdulah</h1>
 
 <p align="center">A passionate Front-End Web Developer</p>
+<br>
 
 ###
 
 <h2 align="left">👋 About Me</h2>
 
-<p align="left">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br><br>🎯 What I Do:<br><br>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
+<p align="left">I'm a Front-End Web Developer with a passion for building interactive and responsive web applications. I specialize in Next.js, React, JavaScript, Tailwind CSS, and MongoDB.<br>🎯 What I Do:<br><br>💻 Develop scalable and user-friendly web applications.<br>🚀 Work with Next.js, React, JavaScript, and Tailwind CSS.<br>🔥 Optimize performance and enhance user experience.</p>
+<br>
 
 ###
 
 <h2 align="left">🚧 Currently Working</h2>
-
 <p align="left">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Learning Next.js to enhance my skills in building fast and scalable web applications.</p>
+<br>
 
 ###
 
@@ -57,7 +59,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
-
+<br>
 ###
 
 <h2 align="left">🔥   My Stats :</h2>
