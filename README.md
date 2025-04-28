@@ -33,8 +33,8 @@
 ###
 
 <h2 align="center">🚧 Currently Working</h2>
-<p align="center">🔐 Implementing role-based authentication for enhanced user management.<br>💡 Learning Next.js to enhance my skills in building fast and scalable web applications.</p>
-<br>
+<p align="center">🛠️ Building several projects using Next.js, focusing on best practices and performance optimization.<br>🍔 Collaborating on a group project called "Craving", a modern food delivery app.</p>
+<br>📝 Actively exploring and implementing TypeScript across various projects to enhance code quality and maintainability.<br>
 
 ###
 
